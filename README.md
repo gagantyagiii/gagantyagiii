@@ -1,4 +1,4 @@
-# Hi , I am Ggan Tyagi
+# Hi , I am Gagan Tyagi
 
 Btech CS IN Cyber , 1st Year
 I love learning about Cybersecurity.

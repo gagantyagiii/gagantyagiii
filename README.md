@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi , I am Ggan Tyagi
+
+Btech CS IN Cyber , 1st Year
+I love learning about Cybersecurity.
 
 <!--
 **gagantyagiii/gagantyagiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
